@@ -1,1 +1,1 @@
-RSA_Factorization-challenge
+RSA-Factoring-Challenge
